@@ -1,2 +1,1 @@
-# Prueba-Repositorio
-repositorio de prueba del modulo 2 del prepcourse
+Esta es una prueba de como crear un repositorio y como clonarlo desde GitHub a mi PC.
